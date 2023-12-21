@@ -10,7 +10,7 @@ import (
 type Product struct{
 	ID string `json:"id"`
  	Name string `json:"nama"`
-	Stock int `json:"stock"`
+	Stock int `json:"stok"`
 }
 
 // type Student struct{
